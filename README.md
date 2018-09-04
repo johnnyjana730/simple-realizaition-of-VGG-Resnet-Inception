@@ -3,7 +3,7 @@ just the simple realization exercise of VGG, Resnet and inception model in tenso
 
 Inception model plot
 
-![test image size](https://github.com/johnnyjana730/simple-realizaition-of-VGG-Resnet-Inception/blob/master/resnet.png){:height="50%" width="50%"}
+<img src="/Inception_v1.png" width="48">
 
 resnet model plt
 ![image](https://github.com/johnnyjana730/simple-realizaition-of-VGG-Resnet-Inception/blob/master/resnet.png){:height="50%" width="50%"}
