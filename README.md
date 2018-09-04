@@ -3,8 +3,8 @@ just the simple realization exercise of VGG, Resnet and inception model in tenso
 
 Inception model plot
 
-<img src="/Inception_v1.png" width="100">
+<img src="/Inception_v1.png" width="500">
 
 resnet model plt
 
-<img src="/resnet.png" width="100">
+<img src="/resnet.png" width="500">
